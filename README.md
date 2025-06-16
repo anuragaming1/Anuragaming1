@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#FF66C4">🌐 Welcome to My Tech World 💫</h1>
+<h1 align="center" style="color:#FF66C4">🌐 Hello world, I'am Anura Gaming.If you need help then message me on Discord 💫</h1>
 <h3 align="center" style="color:#66CCFF">Your friendly Roblox Developer & Automation Enthusiast</h3>
 
 <p align="center">
@@ -34,13 +34,13 @@
 ### 📲 Connect with Me
 
 <p align="center">
-  <a href="https://discord.com/users/your_discord_id" target="_blank">
+  <a href="https://discord.com/users/1208596199603445801" target="_blank">
     <img src="https://img.shields.io/badge/Discord-FF66C4?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+  <a href="https://www.youtube.com/@Anura-gaming-real" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-66CCFF?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@yourtiktok" target="_blank">
+  <a href="https://www.tiktok.com/@anurav2.0?_t=ZS-8xF6WiL1Kzf&_r=1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-FF66C4?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
@@ -48,5 +48,5 @@
 ---
 
 <p align="center" style="color:#888">
-  💻 Crafted with <span style="color:#FF66C4">💗</span> by Anura • Theme: <strong>Hồng + Xanh Công Nghệ</strong>
+  💻 Crafted with <span style="color:#FF66C4">💗</span>Anura Gaming On top</strong>
 </p>
