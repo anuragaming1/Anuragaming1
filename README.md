@@ -44,7 +44,7 @@
 ## 🎧 <span style="color:#FF66C4">Sơn Tùng M-TP</span> Vibes
 
 <p align="center">
-  <img src="https://img.upanhnhanh.com/ec288cb9d1e639067a9c86743be91149" width="400" style="border-radius: 15px; box-shadow: 0 0 20px #FF66C4;"/>
+  <img src="https://ibb.co/xt83twJ2" width="400" style="border-radius: 15px; box-shadow: 0 0 20px #FF66C4;"/>
 </p>
 
 <p align="center">
