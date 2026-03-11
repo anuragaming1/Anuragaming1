@@ -10,7 +10,7 @@
 ### 🎧 I am a fan of Sơn Tùng M-TP 
 
 <p align="center">
-  <img src="<img src="https://open.spotify.com/user/313wevh4qwgdvhqg3kjgxidy5a34?si=6962aa5c8435476f"/>
+  <img src="<img src="https://img.upanhnhanh.com/6aa7ab5849ebee5300b4010af79e8503"/>
 </p>
 
 ---
