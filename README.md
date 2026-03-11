@@ -139,7 +139,7 @@
 
 <!-- Discord Widget -->
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/[your-discord-id].png" alt="Discord Status"/>
+  <img src="https://discord.c99.nl/widget/theme-3/1354802892254609429.png" alt="Discord Status"/>
 </p>
 
 ---
