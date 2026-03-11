@@ -10,7 +10,7 @@
 ### 🎧 I am a fan of Sơn Tùng M-TP 
 
 <p align="center">
-  <img src="<img src="https://cdn.discordapp.com/attachments/1452203485058699315/1481289559063924766/Screenshot_2026-02-13-13-15-32-52_f69139cffc4d135a71392e13634f144a.jpg?ex=69b2c5e7&is=69b17467&hm=d0e1f1fcae363ca78094587f8d97ffcd2eb7d615703c645652a8e1885058cec3&"/>
+  <img src="<img src="https://github.com/MEOW-HUB-DEV/image-/blob/main/4a98314db0aca36392c7a4c4a6324428.jpg"/>
 </p>
 
 ---
