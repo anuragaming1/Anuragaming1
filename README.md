@@ -54,7 +54,7 @@
 <!-- Spotify Now Playing (Optional) -->
 <p align="center">
   <a href="https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf?si=c57oe9LuSr6uWdkHl7zncw">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=[your-spotify-id]&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=FF66C4&bar_color_cover=true" />
+    <img src="☝️" />
   </a>
 </p>
 
