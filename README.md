@@ -19,7 +19,7 @@
 ---
 
 <!-- About Me Section with Gradient Background -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+## <img src="https://img.upanhnhanh.com/cf38d44e7e61f97810630d49eacb6da5" width="50"> About Me
 
 <table align="center">
   <tr>
