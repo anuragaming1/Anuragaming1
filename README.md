@@ -6,13 +6,11 @@
 </p>
 
 ---
-
 ### 🎧 I am a fan of Sơn Tùng M-TP 
 
 <p align="center">
-  <img src="<img src="https://github.com/MEOW-HUB-DEV/image-/blob/main/4a98314db0aca36392c7a4c4a6324428.jpg"/>
+  <img src="https://github.com/MEOW-HUB-DEV/image-/blob/main/4a98314db0aca36392c7a4c4a6324428.jpg" width="400"/>
 </p>
-
 ---
 
 ### 📈 GitHub Stats
@@ -34,7 +32,7 @@
 ### 📲 Connect with Me
 
 <p align="center">
-  <a href="https://discord.com/users/1208596199603445801" target="_blank">
+  <a href="https://discord.gg/sWtCuDf6zw" target="_blank">
     <img src="https://img.shields.io/badge/Discord-FF66C4?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@Anura-gaming-real" target="_blank">
