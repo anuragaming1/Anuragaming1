@@ -26,7 +26,7 @@
     <td>
       <ul>
         <li>🎮 <b>Roblox Scripter</b> tại <b>Anura Hub</b></li>
-        <li>🤖 Chuyên phát triển <b>Auto Bounty</b> và <b>Fluxus Android</b></li>
+        <li>🤖 Chuyên phát triển <b>Meow Hub</b> và <b>Anura Hub</b></li>
         <li>🎧 Fan cứng của <b>Sơn Tùng M-TP</b></li>
         <li>📢 Luôn cập nhật <b>Script mới nhất</b> cho cộng đồng</li>
         <li>⚡ <b>Fun fact:</b> Code đêm năng suất gấp 3 lần ngày!</li>
