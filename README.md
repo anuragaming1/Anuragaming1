@@ -33,7 +33,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+      <img src="https://img.upanhnhanh.com/b7e840435ac079bb62d1fcefe325117a" width="200"/>
     </td>
   </tr>
 </table>
