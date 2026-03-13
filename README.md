@@ -44,7 +44,7 @@
 ## 🎧 <span style="color:#FF66C4">Sơn Tùng M-TP</span> Vibes
 
 <p align="center">
-  <img src="https://ibb.co/xt83twJ2" width="400" style="border-radius: 15px; box-shadow: 0 0 20px #FF66C4;"/>
+  <img src="https://cdn.discordapp.com/attachments/1452203485058699315/1481991001135644805/images_3.jpg?ex=69b5532c&is=69b401ac&hm=bef33c99d28f45550a6af8993274f073a3f3222d573c670640e4e18db2c32cd4&" width="400" style="border-radius: 15px; box-shadow: 0 0 20px #FF66C4;"/>
 </p>
 
 <p align="center">
